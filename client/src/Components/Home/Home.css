@@ -1,0 +1,23 @@
+#container {
+    height: 100vh;
+    width: 100vw;
+}
+
+#newRoomButton {
+    /* background-color: rgb(58, 124, 90); */
+    background-color: #3871e0;
+}
+
+#disabled {
+    color: grey;
+}
+
+#existingRoomButton {
+    color: #3871e0;
+}
+
+#roomId {
+    margin-left: 5rem;
+    border: .05rem solid grey;
+    border-radius: .1rem;
+}
